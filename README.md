@@ -9,5 +9,3 @@
 
 test case อยู่ใน folder spec
 class อยู่ใน folder function
-
-6010110319
